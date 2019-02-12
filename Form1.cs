@@ -11,6 +11,7 @@ namespace Zmeya
         public static Image ColorImgBall;
         private Zmeya[] zm;
         private RandBall rBall;
+        public int k;
 
         public Form1()
         {
